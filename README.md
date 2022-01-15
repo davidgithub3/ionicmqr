@@ -4,7 +4,7 @@ FoodSafety management mobile application with Ionic and Angular in MEANS stack.
 [Build Ionic Capacitor and Angular Mobile App]
 
 ## Start App
-* Git clone htgit@github.com:davidgithub3/ionicmqr.git
+* Git clone https://github.com:davidgithub3/ionicmqr.git
 * Run `npm install` to install npm packages
 * Run `ionic serve -l` to start lab mode
 
