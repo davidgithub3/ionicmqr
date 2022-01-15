@@ -1,11 +1,10 @@
-# ionic-angular-crud-app
-A step by step Ionic 4 Cordova tutorial, In this tutorial, we will learn how to create a CRUD (Create, Read, Update, Delete) Mobile app (Android/iOS) with Ionic 4 and Angular 8
-
+# foodsafety-ionicapp-with-qrcode
+FoodSafety management mobile application with Ionic and Angular in MEANS stack.
 ## Article
-[Build Ionic 4 Cordova and Angular 8 CRUD Mobile App](https://www.positronx.io/build-ionic-cordova-angular-crud-mobile-app/)
+[Build Ionic Capacitor and Angular Mobile App]
 
 ## Start App
-* Git clone https://github.com/SinghDigamber/ionic-angular-crud-app.git
+* Git clone htgit@github.com:davidgithub3/ionicmqr.git
 * Run `npm install` to install npm packages
 * Run `ionic serve -l` to start lab mode
 
